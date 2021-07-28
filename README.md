@@ -19,7 +19,7 @@
 ## Clone esse projeto
 
 ```bash
-> git clone https://github.com/junhin-brabo/junhinbot
+> git clone https://github.com/junhin-brabo/junhinbotk7
 ```
 
 ## Instale o BOT:
@@ -28,8 +28,8 @@
 > termux-setup-storage
 > pkg install git
 > pkg install nodejs
-> git clone https://github.com/junhin-brabo/junhin
-> cd junhin
+> git clone https://github.com/junhin-brabo/junhinbotk7
+> cd junhinbotk7
 > bash install.sh
 ```
 
