@@ -1,0 +1,19 @@
+const aluguel = () => { 
+	return `           
+╔══✪〘 ALUGUEL BOT 〙✪══
+║
+╠═══════════════════════════
+╠⚠️ *LISTA DE ALUGUEL E CRIAR BOTS:*
+ | ⚠️ *ADD EM GRUPO 5*
+╠⚠️ *ALUGUEL: 30 / GRUPO (MÊS)*
+╠⚠️ *CRIAR: 80 (PODE SER PROPRIETÁRIO)*
+╠⚠  ️*PODE PAGAR ATRAVÉS DE:*
+╠⚠️ *PIX, MERCADO PAGO, BOLETO,*
+╠═══════════════════════════
+╠ *VANTAGENS*
+╠🔎 *wa.me/557197566648*
+║
+╚═〘 JUNHIN BOT 〙
+`
+}
+exports.aluguel = aluguel
